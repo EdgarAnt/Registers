@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646716404 source:c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\registros\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<windows.h>
+
